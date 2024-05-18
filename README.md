@@ -7,6 +7,6 @@ We are Group 5 - Tech 5avvies from BSIT 1-5 of Polytechnic University of the Phi
 
 ## 🔧 **TOOLS USED**
 
-• **Python** - programming language used for our app development.
+• **Python** - The programming language used for our app development.
 
-• **PyCharm & Visual Studio Code** - integrated development environment (IDE) used for our programming in Python.
+• **PyCharm & Visual Studio Code** - Integrated Development Environment (IDE) used for programming in Python.
